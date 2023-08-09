@@ -1,0 +1,21 @@
+.small,
+.medium,
+.large {
+    background-color: #FBA1B7;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.large{
+    font-size: 24px;
+}
+
+#blue {
+    color: blue;
+    font-size: 36px;
+}
+
+#green{
+    background-color: #75cd6e;
+    font-size: 24px;
+    font-weight: bold;
+}
